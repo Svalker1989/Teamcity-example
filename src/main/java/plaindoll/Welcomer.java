@@ -13,5 +13,11 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+<<<<<<< HEAD
 	
+=======
+	public String HeadHunter(){
+		return "We need one more hunter";
+	}	
+>>>>>>> add_reply
 }
